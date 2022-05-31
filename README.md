@@ -1,5 +1,6 @@
 # Wallpaper App Using Pexel Api Android 
 
+In this Project, Contribution of me and my friend Ayush Anand.
 
 # Screenshots 
 <p float="left">
